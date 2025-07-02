@@ -4,6 +4,11 @@
       "id": "1751398390686",
       "username": "testuser",
       "password": "$2a$10$i6ItjNE.V6oypxnTqXCDLuFNqhBE.HLz65RPj6ws379PmAuRmuJQW"
+    },
+    {
+      "id": "1751423393232",
+      "username": "testuser2",
+      "password": "$2a$10$wDSpMBfLA1AscK/SAVkgkORD.JujKunwypyO5fYEB3f2eF1ZjG.Je"
     }
   ]
 }
